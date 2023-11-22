@@ -1,7 +1,12 @@
-> “Simplicity is the ultimate form of sophistication.” 
+> “Simplicity is the ultimate form of sophistication.”
+> 
 > ⎯ Leonardo Da Vinci 
 
-### My name is Marco and I'm a _crossover_ designer
+
+### 🧔🏻‍♂️ My name is Marco and I'm a _crossover_ designer 
+I love Wordpress, I'm a CSS3 victim and I use social for marketing. 
+I'm curious, up to new technologies, follower of social world and mood. 
+I'm a skilled and accurate guy, committed to work and able to team working. 
 
 
 | SKILLS | LIKE |
@@ -13,3 +18,43 @@
 | ☆ ★ ☆ ☆ ☆ JS | ♡ ♡ ♡ ♡ ♡ MAC |
 | ★ ★ ★ ★ ☆ Figma | ♥ ♡ ♥ ♡ ♥ GIT |
 | + WordPress, SEO & Adobe! | + sea, bike & food! |
+
+
+<!-- <table>
+	<thead>
+		<tr>
+			<th><span style="font-size:6px;">SKILLS</span></th>
+			<th><span style="font-size:9px;">LIKE</span></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>★ ★ ★ ★ ★ UI </td>
+			<td> ♡ ♡ ♡ ♡ ♡ WEB</td>
+		</tr>
+		<tr>
+			<td>★ ★ ★ ★ ★ UX </td>
+			<td> ♡ ♡ ♡ ♡ ♡ VISUAL</td>
+		</tr>
+		<tr>
+			<td>★ ★ ★ ★ ★ HTML </td>
+			<td> ♡ ♡ ♡ ♡ ♥ MOBILE</td>
+		</tr>
+		<tr>
+			<td>★ ★ ★ ★ ★ CSS </td>
+			<td> ♡ ♡ ♡ ♡ ♡ SCOUTING</td>
+		</tr>
+		<tr>
+			<td>☆ ★ ☆ ☆ ☆ JS </td>
+			<td> ♡ ♡ ♡ ♡ ♡ MAC</td>
+		</tr>
+		<tr>
+			<td>★ ★ ★ ★ ☆ Figma </td>
+			<td> ♥ ♡ ♥ ♡ ♥ GIT</td>
+		</tr>
+		<tr>
+			<td>+ WordPress, SEO & Adobe! </td>
+			<td> + sea, bike & food!</td>
+		</tr>
+	</tbody> -->
+</table>
