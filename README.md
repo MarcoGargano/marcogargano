@@ -1,4 +1,4 @@
-> “Simplicity is the ultimate form of sophistication.”
+> **🪄 “Simplicity is the ultimate form of sophistication.”**
 > 
 > ⎯ Leonardo Da Vinci 
 <br>
