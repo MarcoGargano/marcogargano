@@ -13,8 +13,8 @@ I'm a skilled and accurate guy, committed to work and able to team working. <br>
 |---|---|
 | ★ ★ ★ ★ ★ UI | ♥ ♥ ♥ ♥ ♥ WEB |
 | ★ ★ ★ ★ ★ UX | ♥ ♥ ♥ ♥ ♥ VISUAL |
-| ★ ★ ★ ★ ★ HTML | ♥ ♥ ♥ ♡ ♥ MOBILE |
-| ★ ★ ★ ★ ★ CSS | ♥ ♥ ♥ ♥ ♥ SCOUTING |
+| ★ ★ ★ ★ ★ HTML | ♥ ♥ ♥ ♥ ♥ MOBILE |
+| ★ ★ ★ ★ ★ CSS | ♥ ♥ ♥ ♡ ♥ SCOUTING |
 | ☆ ★ ☆ ★ ☆ JS | ♥ ♥ ♥ ♥ ♥ MAC |
 | ★ ★ ★ ★ ☆ Figma | ♡ ♥ ♡ ♥ ♡ GIT |
 | + WordPress, SEO & Adobe! | + sea, bike & food! |
