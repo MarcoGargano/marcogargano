@@ -4,7 +4,7 @@
 - 🧑‍🎨 UI Design
 - 🧑‍🔬 CSS Language
 
-🤟 Feel  free to contact me to support your project
+🤟 Feel  free to contact me to support your project! 
 
 ---
 
