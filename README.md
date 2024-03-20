@@ -1,24 +1,32 @@
-> **🪄 “Simplicity is the ultimate form of sophistication.”**
-> 
-> ⎯ Leonardo Da Vinci 
-<br>
+### 🧔🏻‍♂️ Ciao! 
+### My name is Marco and I'm a _crossover_ designer 
 
-### 🧔🏻‍♂️ My name is Marco and I'm a _crossover_ designer 
+---
+
 I love Wordpress, I'm a CSS3 victim and I use social for marketing. <br>
 I'm curious, up to new technologies, follower of social world and mood. <br>
 I'm a skilled and accurate guy, committed to work and able to team working. <br>
-<br>
 
 | 🛠️ SKILLS | 💘 LIKE |
 |---|---|
 | ★ ★ ★ ★ ★ UI | ♥ ♥ ♥ ♥ ♥ WEB |
-| ★ ★ ★ ★ ★ UX | ♥ ♥ ♥ ♥ ♥ VISUAL |
+| ★ ★ ★ ☆ ★ UX | ♥ ♥ ♥ ♥ ♥ VISUAL |
 | ★ ★ ★ ★ ★ HTML | ♥ ♥ ♥ ♥ ♥ MOBILE |
 | ★ ★ ★ ★ ★ CSS | ♥ ♥ ♥ ♡ ♥ SCOUTING |
 | ☆ ★ ☆ ★ ☆ JS | ♥ ♥ ♥ ♥ ♥ MAC |
 | ★ ★ ★ ★ ☆ Figma | ♡ ♥ ♡ ♥ ♡ GIT |
 | + WordPress, SEO & Adobe! | + sea, bike & food! |
 
+---
+
+
+<br>
+
+> **🪄 “Simplicity is the ultimate form of sophistication.”**
+> 
+> ⎯ Leonardo Da Vinci 
+
+<br>
 
 <!-- <table>
 	<thead>
