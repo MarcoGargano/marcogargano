@@ -1,6 +1,6 @@
 ## 🧔🏻‍♂️ Ciao! <br> My name is Marco and I'm a _crossover_ designer 
 
-#### My best pleasures here: 
+### My best pleasures here: 
 - 🧑‍🎨 UI Design
 - 🧑‍🔬 CSS Language
 
@@ -8,8 +8,7 @@
 
 ---
 
-#### Who I am & why I am
-
+### Who I am & why I am
 I love Wordpress, I'm a CSS3 victim and I use social for marketing. <br>
 I'm curious, up to new technologies, follower of social world and mood. <br>
 I'm a skilled and accurate guy, committed to work and able to team working. <br>
