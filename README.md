@@ -13,6 +13,16 @@ I love Wordpress, I'm a CSS3 victim and I use social for marketing. <br>
 I'm curious, up to new technologies, follower of social world and mood. <br>
 I'm a skilled and accurate guy, committed to work and able to team working. <br>
 
+<br>
+
+> **🪄 “Simplicity is the ultimate form of sophistication.”**
+> 
+> ⎯ Leonardo Da Vinci 
+
+<br>
+
+<!-- 
+
 | 🛠️ SKILLS | 💘 LIKE |
 |---|---|
 | ★ ★ ★ ★ ★ UI | ♥ ♥ ♥ ♥ ♥ WEB |
@@ -23,18 +33,7 @@ I'm a skilled and accurate guy, committed to work and able to team working. <br>
 | ★ ★ ★ ★ ☆ Figma | ♡ ♥ ♡ ♥ ♡ GIT |
 | + WordPress, SEO & Adobe! | + sea, bike & food! |
 
----
-
-
-<br>
-
-> **🪄 “Simplicity is the ultimate form of sophistication.”**
-> 
-> ⎯ Leonardo Da Vinci 
-
-<br>
-
-<!-- <table>
+<table>
 	<thead>
 		<tr>
 			<th><span style="font-size:6px;">SKILLS</span></th>
