@@ -19,8 +19,6 @@ I'm a skilled and accurate guy, committed to work and able to team working. <br>
 > 
 > ⎯ Leonardo Da Vinci 
 
-<br>
-
 <!-- 
 
 | 🛠️ SKILLS | 💘 LIKE |
