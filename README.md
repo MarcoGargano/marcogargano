@@ -4,9 +4,9 @@
 - 🧑‍🎨 UI Design
 - 🧑‍🔬 CSS Language
 
-🤟 Feel  free to contact me to support your project! 
-
 🛠️ Currently working in a Proptech Company. 
+
+🤟 Feel  free to contact me to support your project! 
 
 ---
 
