@@ -1,4 +1,5 @@
-## 🧔🏻‍♂️ Ciao! <br> My name is Marco and I'm a _crossover_ designer 
+# 🧔🏻‍♂️ Ciao! 
+## My name is Marco and I'm a _crossover_ designer 
 
 ### My best pleasures here: 
 - 🧑‍🎨 UI Design
